@@ -64,16 +64,16 @@ input {
 fieldset legend, section h2 {
   font: 700 16px/140%  'Roboto', sans-serif;
   padding-bottom: 16px;
+  color: #f2cc8f;
 }
 
 fieldset  button {
-  text-transform: uppercase;
   width: fit-content;
   border: 0;
   background: #df917c;
   color: #3d405b;
   border-radius: 10px; 
-  padding: 3px 5px;
+  padding: 7px 15px;
   cursor: pointer;
   font: 700 12px/24px 'Roboto', sans-serif
 
